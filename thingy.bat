@@ -6,3 +6,4 @@ echo|set /p=WAKE UP NEO&(for /l %%i in (1,1,10) do powershell -c "write-host -no
 timeout 1 >NUL
 cls
 echo :)
+pause >nul
