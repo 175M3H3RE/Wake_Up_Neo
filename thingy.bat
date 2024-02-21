@@ -7,4 +7,5 @@ timeout 1 >NUL
 cls
 echo :)
 pause >nul
+REM
 
